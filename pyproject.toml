@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wyatts-awesome-lib"
-version = "0.1.0"
+version = "1.0.0"
 description = "a cool lib that wyatt made"
 authors = ["Wyatt Queirolo <wyatt.queirolo@lendbuzz.com>"]
 license = "MIT"
